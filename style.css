@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.nav ul li{
+    display: inline-block;
+}
+.nav ul li a{
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 5px;
+}
+.nav ul{
+    list-style: none;
+    margin-right: 5px;
+    padding: 10px;
+}
+.nav{
+    float: right;
+    color: black;
+}
+.hello{
+    clear: both;
+    height: 500px;
+}
+h1{
+    font-size: 60px;
+}
+.half-side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-right: 2%;
+}
+.half-side img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#7b4397,#dc2430);
+    padding: 6px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.about{
+    clear: both;
+    height: 500px;
+}
+.project{
+    clear: both;
+}
+.name-highlight{
+    color: orange;
+}
+.latest{
+    text-align: center;
+}
+.three-part{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+.work-inq{
+    
+    clear: both;
+    background-image: url(images/6.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 30%;
+    height: 200px;
+    margin-bottom: 20px;
+
+}
+.work-inq img{
+    width: 100%;
+}
+.float-left{
+    float: left;
+    margin-left: 4%;
+    margin-top: 50px;
+}
+.float-right{
+    float: right;
+    margin-right: 4%;
+    margin-top: 50px;
+}
+
+.project img{
+    margin-top: 20px;
+    padding-left: 25%;
+    width: 60%;
+    
+}
+.project{
+    margin-right: 20px;
+}
+.three-part{
+    margin-left: 40px;
+    padding-left: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+.stay-con{
+    text-align: center;
+}
+.logo img{
+    height: 50px;
+}
